@@ -1,0 +1,12 @@
+AnimationTree
+AnimationPlayer
+CharacterBody3D
+Node3D
+CollisionShape3D
+RigidBody3D
+TextureRect
+Control
+WorldEnvironment
+Camera3D
+Node
+MeshInstance3D

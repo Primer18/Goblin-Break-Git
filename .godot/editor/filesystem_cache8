@@ -1,0 +1,45 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1746666810
+Goblin room.tscn::PackedScene::7617169510067337263::1746665606::0::1::::<><>::uid://ds0i6du4ierq1::::res://Blender/Level/Test.glb<>uid://6wanp3m1ygu2::::res://Blender/Decorations/Table.glb<>res://Code/Controls/Scripts/PlayerController.gd<>res://Code/Controls/Scripts/CrosshairControl.gd<>uid://c56wtffhuljtu::::res://Code/Controls/Crosshair.png<>uid://d3q566sal5kk0::::res://Sky/Brightdist.jpg<>uid://diyatg87dh02d::::res://Import InherS/arm.tscn<>uid://c5nj1rg6vjfk8::::res://Blender/Decorations/Ash tray.glb<>uid://flgqmsts0tx::::res://Blender/Decorations/Cabinet.glb
+icon.svg::CompressedTexture2D::6106864709671624371::1734894170::1734895736::1::::<><>::
+Playercontrollwe.tres::MeshLibrary::2009347326138098033::1734972018::0::1::::<><>::
+::res://Blender/::1734895093
+::res://Blender/Arm/::1746666852
+Arm.glb::PackedScene::3485839002669557734::1746666761::1746666852::1::::<><>::uid://bq4jroe4d0s22::::res://Blender/Arm/Arm_ARMColor.png<>uid://b3ab3jle21iq6::::res://Blender/Arm/Arm_ARMRough.png
+Arm_ARMColor.png::CompressedTexture2D::3569886691029394449::1736807340::1736807341::1::::<><>::
+Arm_ARMRough.png::CompressedTexture2D::4351819514701965727::1736807340::1736807341::1::::<><>::
+::res://Blender/Decorations/::1746667597
+Ash tray.glb::PackedScene::6905937374509076225::1734974350::1734974454::1::::<><>::
+Ash tray_ash.jpg::CompressedTexture2D::8532175370409544555::1734894389::1734895212::1::::<><>::
+Cabinet.glb::PackedScene::11001350209379713::1734973756::1734973770::1::::<><>::
+Cabinet_Crushfuzz.png::CompressedTexture2D::4269156125070164401::1734973770::1734973770::1::::<><>::
+Cabinet_Grain_2.jpg::CompressedTexture2D::5974468285563796407::1734973770::1734973770::1::::<><>::
+Missle.glb::PackedScene::1863585853327312053::1746667120::1746667600::1::::<><>::uid://bg40ht1y0k7hs::::res://Blender/Decorations/Missle_Missile.png<>uid://dpk2f5p6u5igv::::res://Blender/Decorations/Missle_Red.png
+Missle_Missile.png::CompressedTexture2D::2868952164998381152::1746667600::1746667600::1::::<><>::
+Missle_Red.png::CompressedTexture2D::8234388371273589713::1746667600::1746667600::1::::<><>::
+Table.glb::PackedScene::2221294510374779195::1734974425::1734974454::1::::<><>::
+Table_Grain_2.jpg::CompressedTexture2D::6345933295378774174::1734894390::1734895212::1::::<><>::
+Table_Grain_2He.jpg::CompressedTexture2D::5001608299789761044::1734894390::1734895212::1::::<><>::
+Table_Image.png::CompressedTexture2D::7750853383454173393::1734894390::1734895212::1::::<><>::
+::res://Blender/Level/::1734896119
+Test.glb::PackedScene::8474811965763198142::1734896079::1734896119::1::::<><>::
+::res://Code/::1734895182
+::res://Code/Controls/::1734972437
+Crosshair.png::CompressedTexture2D::6943872361514072822::1718729448::1734972437::1::::<><>::
+Enemy.tscn::PackedScene::5491995459432686379::1734972018::0::1::::<><>::res://Code/Controls/Scripts/BasicEnemyControl.gd<>uid://ctahf081ahs24::::res://icon.svg
+PlayerController.tscn::PackedScene::6511602579086055549::1718729448::0::1::::<><>::res://Assets/Controls/Scripts/PlayerController.gd<>res://Assets/Controls/Scripts/CrosshairControl.gd<>uid://un7rwq77q1nf::::res://Assets/Crosshair.png<>uid://bxrlatkbsxd32::::res://Assets/Grid Meshes/Tools & Weapons/Kuckles.gltf<>uid://ci7sros3oolcy::::res://Assets/Grid Meshes/Tools & Weapons/cig.gltf
+traygon.tscn::PackedScene::264045691629959363::1718729448::0::1::::<><>::res://Assets/Controls/Scripts/TraygonBehavior.gd<>uid://c15c3pgdhanpu::::res://Assets/Textures/Enemies/Traygon.png<>res://Assets/Controls/Scripts/TraygonNav.gd
+::res://Code/Controls/Scripts/::1718729448
+BasicEnemyControl.gd::GDScript::-1::1718729448::0::1::::<>Node3D<>::
+Camera3D.gd::GDScript::-1::1718729448::0::1::::<>Camera3D<>::
+CrosshairControl.gd::GDScript::-1::1718729448::0::1::::<>Control<>::
+Global.gd::GDScript::-1::1718729448::0::1::::<>Node<>::
+PlayerController.gd::GDScript::-1::1718729448::0::1::::<>CharacterBody3D<>::
+TraygonBehavior.gd::GDScript::-1::1718729448::0::1::::<>CharacterBody3D<>::
+TraygonNav.gd::GDScript::-1::1718729448::0::1::::<>NavigationAgent3D<>::
+WorldControl.gd::GDScript::-1::1718729448::0::1::::<>WorldEnvironment<>::
+::res://Import InherS/::1746666712
+arm.tscn::PackedScene::7770352163942084005::1746666712::0::1::::<><>::uid://bpwti2revxn8i::::res://Blender/Arm/Arm.glb
+::res://Sky/::1734975721
+Bright.jpg::CompressedTexture2D::9219583735966766434::1734971197::1734971506::1::::<><>::
+Brightdist.jpg::CompressedTexture2D::9159458242449436725::1734975714::1734975721::1::::<><>::
